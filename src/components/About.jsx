@@ -2,9 +2,9 @@ import { motion } from 'framer-motion'
 import { Code, Server, Shield, Zap, Rocket, GitBranch } from 'lucide-react'
 
 const STATS = [
-  { num: '5+',  label: 'Years of Experience' },
-  { num: '42',  label: 'Projects Shipped' },
-  { num: '12k', label: 'GitHub Stars' },
+  { num: '1+',  label: 'Years of Experience' },
+  { num: '12',  label: 'Projects Shipped' },
+  { num: '8k', label: 'GitHub Stars' },
   { num: '99',  label: 'Lighthouse Score' },
 ]
 

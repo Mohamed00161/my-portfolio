@@ -197,7 +197,7 @@ export default function Contact() {
                   value={form.email} 
                   onChange={handleChange} 
                   className={inputClasses} 
-                  placeholder="mohamedosmanadhi@example.com" 
+                  placeholder="mohamedosmanadhi@gmail.com" 
                   required 
                 />
               </div>
