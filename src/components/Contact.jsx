@@ -22,7 +22,7 @@ const TikTok = ({ size = 20, className = "" }) => (
 const FORMSPREE_URL = 'https://formspree.io/f/YOUR_FORM_ID' // ← Replace with your Formspree endpoint
 
 const CONTACT_LINKS = [
-  { icon: Mail,     label: 'Email', value: 'mohamedosmanAdhi@gmail.com', href: 'mailto:mohamedosmanadhi@gmail.com' },
+  { icon: Mail,     label: 'Email', value: 'mohamedosmanadhi@gmail.com', href: 'mailto:mohamedosmanadhi@gmail.com' },
   { icon: Github,   label: 'GitHub', value: 'Mohamed00161', href: 'https://github.com/Mohamed00161' },
   { icon: Linkedin, label: 'LinkedIn', value: 'Mohamed Osman', href: 'https://www.linkedin.com/in/mohamed-osman-824280269/' },
   { icon: TikTok,   label: 'TikTok', value: '@codewithmoha', href: 'https://www.tiktok.com/@codewithmoha' },

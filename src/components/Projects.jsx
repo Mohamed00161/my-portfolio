@@ -59,12 +59,12 @@ const PROJECTS = [
   {
     id: '6',
     image: '/images/physical.png',
-    title: 'Streamify',
-    description: 'Collaborative audio streaming platform with rooms, queues, and real-time sync using WebRTC and WebSockets.',
+    title: 'Next Level Physique',
+    description: 'A modern fitness solution focused on user experience and data-driven progress. I engineered this project to handle real-world gym scenarios, including membership tiering and workout scheduling.',
     tags: ['React', 'WebRTC', 'Node.js', 'Redis'],
     featured: false,
-    github: 'https://github.com/Mohamed00161/streamify',
-    demo: 'https://streamify.vercel.app',
+    github: 'https://github.com/Mohamed00161/NextLevel-Physique',
+    demo: 'https://next-level-physique.vercel.app/',
   },
 ]
 
